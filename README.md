@@ -1,6 +1,6 @@
 # ♟️ Desafio Xadrez em C#
 
-Este projeto valida movimentos de peças do xadrez via terminal, feito em C# para Ubuntu.
+Este projeto valida movimentos de peças do xadrez via terminal, feito em C#.
 
 ## 🧠 Peças suportadas
 
